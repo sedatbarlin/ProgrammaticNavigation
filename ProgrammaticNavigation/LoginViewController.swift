@@ -5,7 +5,7 @@
 //  Created by Sedat on 5.02.2024.
 //
 
-import UIKit
+import UIKit  
 
 class LoginViewController: UIViewController {
     lazy var button: UIButton = {
