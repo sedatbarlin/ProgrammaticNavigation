@@ -7,7 +7,7 @@
   
 import UIKit   
 
-class LoginViewController: UIViewController {
+class LoginViewController: UIViewController { 
     lazy var button: UIButton = {
         let button = UIButton()
         button.setTitle("Sign Out", for: .normal)
