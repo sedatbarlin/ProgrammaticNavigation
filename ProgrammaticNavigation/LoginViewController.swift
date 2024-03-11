@@ -8,7 +8,7 @@
 import UIKit   
 
 class LoginViewController: UIViewController { 
-    lazy var button: UIButton = {
+    lazy var button: UIButton = { 
         let button = UIButton()
         button.setTitle("Sign Out", for: .normal)
         button.setTitleColor(.white, for: .normal)
