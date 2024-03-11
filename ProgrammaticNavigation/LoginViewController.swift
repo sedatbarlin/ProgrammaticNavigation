@@ -12,7 +12,7 @@ class LoginViewController: UIViewController {
         let button = UIButton()
         button.setTitle("Sign Out", for: .normal) 
         button.setTitleColor(.white, for: .normal) 
-        button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
+        button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside) 
         return button
     }()
 
