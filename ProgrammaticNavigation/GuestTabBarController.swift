@@ -12,7 +12,7 @@ class GuestTabBarController: UITabBarController {
     override func viewDidLoad() {  
         super.viewDidLoad() 
         configureTabs()
-    } 
+    }  
     private func configureTabs(){
         let vc1 = HomeViewController()
         let vc2 = LoginViewController()
