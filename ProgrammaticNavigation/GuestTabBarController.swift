@@ -10,7 +10,7 @@ import UIKit
 class GuestTabBarController: UITabBarController { 
   
     override func viewDidLoad() {  
-        super.viewDidLoad()
+        super.viewDidLoad() 
         configureTabs()
     }
     private func configureTabs(){
