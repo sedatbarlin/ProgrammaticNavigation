@@ -7,7 +7,7 @@
 
 import UIKit
  
-class GuestTabBarController: UITabBarController {
+class GuestTabBarController: UITabBarController { 
   
     override func viewDidLoad() {  
         super.viewDidLoad()
